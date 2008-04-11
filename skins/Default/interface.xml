@@ -1,0 +1,20 @@
+<interface>
+  <colors>
+    <font_label>D4D0C8</font_label>
+    <font_button>000000</font_button>
+    <font_edit>D4D0C8</font_edit>
+    <font_edit_sel>000000</font_edit_sel>
+    <font_window_title>D4D0C8</font_window_title>
+    <base_bg>1B1B1B</base_bg>
+    <base_border>C51E21</base_border>
+    <grid_bg_active>1B1B1B</grid_bg_active>
+    <grid_bg>1B1B1B</grid_bg>
+    <grid_border_active>2B2B2B</grid_border_active>
+    <grid_border>0</grid_border>
+    <grid_cell_attached>FF0000</grid_cell_attached>
+    <tab_bg>2B2B2B</tab_bg>
+    <edit_bg>2B2B2B</edit_bg>
+    <edit_bg_sel>FDBE00</edit_bg_sel>
+    <edit_border>4B4B4B</edit_border>
+  </colors>
+</interface>

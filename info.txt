@@ -1,0 +1,47 @@
+---------------------------------------------------------------------------
+ Neon v2.5
+ Copyright (C) 2006,2008 Jordi Ros <shine.3p@gmail.com>
+ www.neonv2.com / www.xplsv.com
+
+---------------------------------------------------------------------------
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+
+ You should have received a copy of the GNU General Public License
+ along with this program called license.txt
+ If not, see <http://www.gnu.org/licenses/>
+
+---------------------------------------------------------------------------
+
+What you will need to compile:
+
+- VS2005
+- DirectX9 SDK
+- PlatformSDK for dshow
+- Boost (I use version 1.33.1)
+- Lua 5.1 (rar included) for neon player
+- Max SDK for 3d object plugin exporter
+- Freeframe SDK for filter freeframe
+- QT Sdk or something (I don't remember) if you plan to include MovPlayer,
+  but it's slow and I won't recommend it
+  
+Included and used:  
+- FFmpeg .lib, .h, .dll
+- BASS .lib, .h, .dll
+- TinyXML .lib, .h
+
+I think that's all. Have fun! If you make something with it, drop me a line
+
+More info:
+--------------------
+There are some files in Effects and Filters directory. Those are effects
+and filters used in original neon v2, and need to be translated to v2.5
+(new features and syntaxis)
+I left them because maybe someone will translate them

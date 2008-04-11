@@ -1,0 +1,10 @@
+TO DO List
+----------
+
+*!- Links: linking vars to devices/events, still not finished at all
+*-- MidiDevice and GestorMidiDevices (gestor = to manage various midi devices)
+*-- Finish the bpm manager (more beautiful, add gain, etc)
+*-- Convert old filters to new format
+
+--- Save session for neon player
+--- Neon player, still old version
