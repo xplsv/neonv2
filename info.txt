@@ -26,8 +26,8 @@ What you will need to compile:
 - DirectX9 SDK
 - PlatformSDK for dshow
 - Boost (I use version 1.33.1)
-- Lua 5.1 (rar included) for neon player
-- Max SDK for 3d object plugin exporter
+- Lua 5.1 for neon player
+- Max SDK for 3d object plugin exporter (still not included)
 - Freeframe SDK for filter freeframe
 - QT Sdk or something (I don't remember) if you plan to include MovPlayer,
   but it's slow and I won't recommend it
